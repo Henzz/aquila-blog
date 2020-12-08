@@ -9,80 +9,120 @@ use Illuminate\Support\Arr;
 
 class DashboardController extends Controller
 {
-	public function dashboard(){
-        $post = Arr::where(Http::get('http://127.0.0.1:8000/api/listposts')['data'],
-            function($val, $key){
-            return $val["category"] == "Services Website Development";
-        });
-        return view('posts')->with('post',$post);
-    }
-
-    public function index(){
-
+    public function index()
+    {
         return view('pages.index');
     }
 
-    public function about(){
-
-    	return view('pages.about');
+    public function about()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "About Us";
+            }
+        );
+        return view('pages.about')->with('post', $post);
     }
 
-    public function contact(){
+    public function contact()
+    {
 
-    	return view('pages.contact-2');
+        return view('pages.contact-2');
     }
 
-    public function portfolioIOT(){
-
-        return view('pages.portfolio-IOT');
+    public function portfolioIOT()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Portfolio Security System Supply and Installation";
+            }
+        );
+        return view('pages.portfolio-IOT')->with('post', $post);
     }
 
-    public function portfoliomobileapp(){
+    public function portfoliomobileapp()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Portfolio Mobile App Development";
+            }
+        );
 
-        return view('pages.portfolio-mobile-app');
+        return view('pages.portfolio-mobile-app')->with('post', $post);
     }
 
-    public function portfolioWebsite(){
+    public function portfolioWebsite()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Portfolio Website Development";
+            }
+        );
 
-        return view('pages.portfolio-Website');
+        return view('pages.portfolio-Website')->with('post', $post);
     }
 
-    public function serviceApp(){
+    public function serviceApp()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Services Mobile App Development";
+            }
+        );
 
-        return view('pages.service-app');
+        return view('pages.service-app')->with('post', $post);
     }
 
-    public function serviceDemoDigitalSeo(){
+    public function serviceDemoDigitalSeo()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Service Digital Marketing and SEO";
+            }
+        );
 
-        return view('pages.service-demo-digital-seo');
+        return view('pages.service-demo-digital-seo')->with('post', $post);
     }
 
-    public function serviceErpIot(){
-        $post = Arr::where(Http::get('http://127.0.0.1:8000/api/listposts')['data'],
-            function($val, $key){
-            return $val["category"] == "Services Website Development";
-        });
+    public function serviceErpIot()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Services Hardware & Security";
+            }
+        );
 
-        return view('pages.service-erp-iot');
+        return view('pages.service-erp-iot')->with('post', $post);
     }
 
-    public function serviceErp(){
-        $post = Arr::where(Http::get('http://127.0.0.1:8000/api/listposts')['data'],
-            function($val, $key){
-            return $val["category"] == "Services Website Development";
-        });
+    public function serviceErp()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Service Enterprise System Development";
+            }
+        );
 
-        return view('pages.service-erp');
+        return view('pages.service-erp')->with('post', $post);
     }
 
-    public function serviceWeb(){
-        $post = Arr::where(Http::get('http://127.0.0.1:8000/api/listposts')['data'],
-            function($val, $key){
-            return $val["category"] == "Services Website Development";
-        });
+    public function serviceWeb()
+    {
+        $post = Arr::where(
+            Http::get('http://127.0.0.1:8000/api/listposts')['data'],
+            function ($val, $key) {
+                return $val["category"] == "Services Website Development";
+            }
+        );
 
-        return view('pages.service-web')->with('post',$post);
+        return view('pages.service-web')->with('post', $post);
     }
-
-
 }

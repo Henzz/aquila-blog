@@ -21,37 +21,37 @@
 		<div id="wrapper" class="clearfix">
 
 			<div id="rev_slider_126_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="clean-landing-page" data-source="gallery" style="background:transparent;padding:0px;">
-				
+
 				<!-- START REVOLUTION SLIDER 5.4.7.1 fullscreen mode -->
-				
+
 				<div id="rev_slider_126_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.7.1">
 
 					<!-- SLIDE  -->
 
 					<ul>
-						
+
 						<li data-index="rs-283" data-transition="fade" data-slotamount="default"
 							data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"data-easeout="default" data-masterspeed="300" data-rotate="0"
 							data-saveperformance="off" data-title="Slide" data-param1=""
-							data-param2="" data-param3="" data-param4="" data-param5="" 
-							data-param6="" data-param7="" data-param8="" data-param9="" 
+							data-param2="" data-param3="" data-param4="" data-param5=""
+							data-param6="" data-param7="" data-param8="" data-param9=""
 							data-param10="" data-description="">
 
 							<!-- MAIN IMAGE -->
-							
+
 							<img src="/acss/include/rs-plugin/demos/assets/images/transparent.png" data-bgcolor='#ffffff' style='background:#ffffff' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
 
 							<!-- LAYERS -->
-							<div id="rrzt_283" class="rev_row_zone rev_row_zone_top" 
+							<div id="rrzt_283" class="rev_row_zone rev_row_zone_top"
 							style="z-index: 43;">
 
 								<!-- LAYER NR. 1 -->
-								<div class="tp-caption" id="slide-283-layer-38" 
-									data-x="['left','left','left','left']" 
+								<div class="tp-caption" id="slide-283-layer-38"
+									data-x="['left','left','left','left']"
 									data-hoffset="['100','100','100','100']" data-width="none"
 									data-height="none" data-whitespace="normal" data-type="row"
-									data-columnbreak="3" data-basealign="slide" 
-									data-responsive_offset="on" data-responsive="off" 
+									data-columnbreak="3" data-basealign="slide"
+									data-responsive_offset="on" data-responsive="off"
 									data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 									data-margintop="[0,0,0,0]"
 									data-marginright="[0,0,0,0]"
@@ -63,7 +63,7 @@
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[100,50,50,30]"
 									style="z-index: 43; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
-								
+
 									<!-- LAYER NR. 2 -->
 									<div class="tp-caption  "
 										 id="slide-283-layer-39"
@@ -114,16 +114,16 @@
 											 data-paddingbottom="[0,0,0,0]"
 											 data-paddingleft="[10,10,10,10]"
 											 style="z-index: 46; white-space: normal; font-size: 16px; line-height: 50px; font-weight: 700; color: #000000; letter-spacing: 0px; display: inline-block;font-family:Poppins;text-transform:uppercase;">
-												
+
 												SERVICES WE PROVIDE
 										</div>
-									
+
 									</div>
 
 									<!-- LAYER NR. 5 -->
 
 									<div class="tp-caption" id="slide-283-layer-40"
-									 data-x="['left','left','left','left']" 
+									 data-x="['left','left','left','left']"
 									 data-hoffset="['100','100','100','100']"
 									 data-y="['top','top','top','top']" data-voffset="['100','100','100','100']"
 									 data-width="none"
@@ -145,7 +145,7 @@
 									 data-paddingbottom="[0,0,0,0]"
 									 data-paddingleft="[0,0,0,0]"
 									 style="z-index: 47; width: 100%;">
-									 	
+
 									</div>
 
 									<!-- LAYER NR. 6 -->
@@ -154,7 +154,7 @@
 
 							</div>
 
-							<div id="rrzb_283" class="rev_row_zone rev_row_zone_bottom" 
+							<div id="rrzb_283" class="rev_row_zone rev_row_zone_bottom"
 								style="z-index: 34;">
 
 								<!-- LAYER NR. 7 -->
@@ -182,9 +182,9 @@
 									data-paddingright="[100,50,50,30]"
 									data-paddingleft="[100,50,50,30]"
 									style="z-index: 27; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
-								
+
 									<!-- LAYER NR. 8 -->
-								
+
 									<div class="tp-caption  "
 										 id="slide-283-layer-34"
 										 data-x="['left','left','left','left']" data-hoffset="['100','100','100','100']"
@@ -211,9 +211,9 @@
 										style="z-index: 28; width: 100%;">
 
 										<!-- LAYER NR. 9 -->
-									
+
 										<div class="tp-caption   tp-resizeme" id="slide-283-layer-27"
-											data-x="['center','center','center','cent']" 
+											data-x="['center','center','center','cent']"
 											data-hoffset="['0','0','0','0']"
 											data-lineheight="['40','40','25','25']"
 										   	data-width="none"
@@ -346,14 +346,14 @@
 										   	data-paddingleft="[5,5,5,5]"
 										   	style="z-index: 33; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 700; color: #000000; letter-spacing: 0px; display: inline-block;font-family:Poppins; margin-top: 60px;">
 
-										   	50+ <br/>HAPPY CUSTOMERS 
+										   	50+ <br/>HAPPY CUSTOMERS
 										</div>
 									</div>
 								</div>
 
 								<!-- LAYER NR. 7 -->
 
-								<div class="tp-caption  " id="slide-283-layer-33" 
+								<div class="tp-caption  " id="slide-283-layer-33"
 									data-x="['left','left','left','left']"
 									data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
 									data-voffset="['834','834','834','834']" data-width="none" data-height="none"
@@ -372,9 +372,9 @@
 											<div class="container clearfix">
 
 												<h3>
-													Call us today on +251913609212 or Email us at 
-													<a href="/cdn-cgi/l/email-protection" 
-													class="__cf_email__" 
+													Call us today on +251913609212 or Email us at
+													<a href="/cdn-cgi/l/email-protection"
+													class="__cf_email__"
 													data-cfemail="b8dbd7d6ccd9dbccf8d9c9cdd1d4d9d1dbcc96dbd7d5">[email&#160;protected]</a>
 												</h3>
 												<span>We strive to provide Our Customers with Top Notch Service to make their Dreams Come True</span>
@@ -384,7 +384,7 @@
 
 								<!-- LAYER NR. 14 -->
 
-								<div class="tp-caption  " id="slide-283-layer-45" 
+								<div class="tp-caption  " id="slide-283-layer-45"
 									data-x="['left','left','left','left']"
 									data-hoffset="['0','0','0','0']" data-width="none" data-height="none"
 									data-whitespace="nowrap" data-type="row" data-columnbreak="3" data-basealign="slide"
@@ -395,10 +395,10 @@
 									data-paddingtop="[0,0,0,0]" data-paddingright="[100,50,50,30]"
 									data-paddingbottom="[0,0,0,0]" data-paddingleft="[100,50,50,30]"
 									style="z-index: 34; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
-									
+
 									<!-- LAYER NR. 15 -->
-									
-									<div class="tp-caption  " id="slide-283-layer-46" 
+
+									<div class="tp-caption  " id="slide-283-layer-46"
 										data-x="['left','left','left','left']"
 										data-hoffset="['100','100','100','100']" data-width="none" data-height="none"
 										data-whitespace="nowrap" data-type="column" data-responsive_offset="on"
@@ -411,14 +411,14 @@
 										data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
 										data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
 										style="z-index: 35; width: 100%;">
-											
+
 									</div>
 								</div>
 							</div>
 
 							<!-- LAYER NR. 23 -->
 
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-25"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -429,13 +429,13 @@
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
 								data-paddingleft="[0,0,0,0]" style="z-index: 5;">
 								<img src="/acss/include/rs-plugin/demos/assets/images/changepic10-1.jpg" alt=""
-								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 
 							</div>
 
 							<!-- LAYER NR. 24 -->
 
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-1"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -444,16 +444,16 @@
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"sX:1;sY:1;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
 								style="z-index: 6;">
 								<img src="/acss/include/rs-plugin/demos/assets/images/changepic1-1.jpg" alt=""
-								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
-							
+								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
+
 							</div>
 
 							<!-- LAYER NR. 25 -->
 
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-7"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -462,16 +462,16 @@
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
 								style="z-index: 7;">
 								<img src="/acss/include/rs-plugin/demos/assets/images/changepic12.jpg" alt=""
-								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 
 							</div>
 
 							<!-- LAYER NR. 26 -->
 
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-8"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -480,58 +480,58 @@
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
 								style="z-index: 8;">
 								<img src="/acss/include/rs-plugin/demos/assets/images/changepic3-1.jpg" alt=""
-								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 
 							</div>
 
 							<!-- LAYER NR. 27 -->
 
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-9"
-								data-x="['center','center','center','center']" 
+								data-x="['center','center','center','center']"
 								data-hoffset="['0','0','0','0']"
-								data-y="['middle','middle','middle','middle']" 
+								data-y="['middle','middle','middle','middle']"
 								data-voffset="['-50','-50','-121','-121']"
-								data-width="none" data-height="none" data-whitespace="nowrap" 
+								data-width="none" data-height="none" data-whitespace="nowrap"
 								data-type="image" data-basealign="slide" data-responsive_offset="on"
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-								data-textAlign="['inherit','inherit','inherit','inherit']" 
+								data-textAlign="['inherit','inherit','inherit','inherit']"
 								data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
 								style="z-index: 9;">
 								<img src="/acss/include/rs-plugin/demos/assets/images/changepic4-1.jpg" alt=""
-								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 
 							</div>
 
 							<!-- LAYER NR. 28 -->
 
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-10"
-								data-x="['center','center','center','center']" 
+								data-x="['center','center','center','center']"
 								data-hoffset="['0','0','0','0']"
-								data-y="['middle','middle','middle','middle']" 
+								data-y="['middle','middle','middle','middle']"
 								data-voffset="['-50','-50','-121','-121']"
-								data-width="none" data-height="none" data-whitespace="nowrap" 
+								data-width="none" data-height="none" data-whitespace="nowrap"
 								data-type="image"
 								data-basealign="slide" data-responsive_offset="on"
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
 								style="z-index: 10;">
 								<img src="/acss/include/rs-plugin/demos/assets/images/changepic2-1.jpg" alt=""
-								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+								data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 
 							</div>
 
 							<!-- LAYER NR. 29 -->
-							
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-11"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -544,12 +544,12 @@
 								style="z-index: 11;">
 								<img
 									src="/acss/include/rs-plugin/demos/assets/images/changepic5-1.jpg" alt=""
-									data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+									data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 							</div>
 
 							<!-- LAYER NR. 30 -->
-							
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-14"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -558,15 +558,15 @@
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
 								style="z-index: 12;">
 								<img
 									src="/acss/include/rs-plugin/demos/assets/images/changepic6-1.jpg" alt=""
-									data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+									data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 							</div>
 
 							<!-- LAYER NR. 31 -->
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-13"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -575,15 +575,15 @@
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
 								style="z-index: 13;">
 								<img
 									src="/acss/include/rs-plugin/demos/assets/images/changepic9-1.jpg" alt=""
-									data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina> 
+									data-ww="['103%','103%','103%','103%']" data-hh="" data-no-retina>
 							</div>
 
 							<!-- LAYER NR. 32 -->
-							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3" 
+							<div class="tp-caption   tp-resizeme rs-parallaxlevel-3"
 								id="slide-283-layer-15"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-121','-121']"
@@ -592,14 +592,14 @@
 								data-frames='[{"delay":"bytrigger","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"bytrigger","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[400,400,400,400]"
-								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep" 
-								style="z-index: 14;"> 
-								<img src="/acss/include/rs-plugin/demos/assets/images/changepic7-1.jpg" alt="" data-ww="['103%','103%','103%','103%']" data-hh="" 
-								data-no-retina> 
+								data-paddingleft="[0,0,0,0]" data-lasttriggerstate="keep"
+								style="z-index: 14;">
+								<img src="/acss/include/rs-plugin/demos/assets/images/changepic7-1.jpg" alt="" data-ww="['103%','103%','103%','103%']" data-hh=""
+								data-no-retina>
 							</div>
 
 							<!-- LAYER NR. 33 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-2"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-840','-825','-880','-855']"
@@ -608,12 +608,12 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:1;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:1;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[450,450,450,450]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 15; 
-								background-color:rgb(255,255,255);"> 
+								data-paddingleft="[0,0,0,0]" style="z-index: 15;
+								background-color:rgb(255,255,255);">
 							</div>
 
 							<!-- LAYER NR. 34 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-3"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','-1']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['340','325','240','215']"
@@ -622,8 +622,8 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:1;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[450,450,450,450]"
-								data-paddingleft="[0,0,0,0]" style="z-index: 16; 
-								background-color:rgb(255,255,255);"> 
+								data-paddingleft="[0,0,0,0]" style="z-index: 16;
+								background-color:rgb(255,255,255);">
 							</div>
 
 							<!-- LAYER NR. 35 -->
@@ -638,15 +638,15 @@
 								data-paddingright="[35,35,35,35]" data-paddingbottom="[400,400,400,400]"
 								data-paddingleft="[10,10,10,10]"
 								style="z-index: 17; white-space: nowrap; font-size: 260px;
-								line-height: 0px; font-weight: 700; color: #ffffff; 
+								line-height: 0px; font-weight: 700; color: #ffffff;
 								letter-spacing: -25px;font-family:Poppins;">
 								SOAR
 							</div>
 
 
 							<!-- LAYER NR. 36 -->
-							
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-18"
 								data-x="['center','center','center','center']" data-hoffset="['-600','-400','-300','-200']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-400','-300','-300','-300']"
@@ -657,12 +657,12 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 18; top: 35px;"> 
+								style="z-index: 18; top: 35px;">
 							</div>
 
 							<!-- LAYER NR. 37 -->
-							
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-17"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-400','-300','-300','-300']"
@@ -673,11 +673,11 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 19;"> 
+								style="z-index: 19;">
 							</div>
 
 							<!-- LAYER NR. 38 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-19"
 								data-x="['center','center','center','center']" data-hoffset="['600','400','300','200']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['-400','-300','-300','-300']"
@@ -688,11 +688,11 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 20;"> 
+								style="z-index: 20;">
 							</div>
 
 							<!-- LAYER NR. 39 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-20"
 								data-x="['center','center','center','center']" data-hoffset="['-600','-400','-300','-200']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
@@ -703,11 +703,11 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 21;"> 
+								style="z-index: 21;">
 							</div>
 
 							<!-- LAYER NR. 40 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-12"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
@@ -718,11 +718,11 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 22;"> 
+								style="z-index: 22;">
 							</div>
 
 							<!-- LAYER NR. 41 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-21"
 								data-x="['center','center','center','center']" data-hoffset="['600','400','300','200']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
@@ -733,11 +733,11 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 23;"> 
+								style="z-index: 23;">
 							</div>
 
 							<!-- LAYER NR. 42 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-22"
 								data-x="['center','center','center','center']" data-hoffset="['-600','-400','-300','-200']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['400','300','300','300']"
@@ -748,11 +748,11 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 24;"> 
+								style="z-index: 24;">
 							</div>
 
 							<!-- LAYER NR. 43 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-23"
 								data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['400','300','300','300']"
@@ -763,11 +763,11 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 25;"> 
+								style="z-index: 25;">
 							</div>
 
 							<!-- LAYER NR. 44 -->
-							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" 
+							<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
 								id="slide-283-layer-24"
 								data-x="['center','center','center','center']" data-hoffset="['600','400','300','200']"
 								data-y="['middle','middle','middle','middle']" data-voffset="['400','300','300','300']"
@@ -778,15 +778,15 @@
 								data-frames='[{"delay":100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
 								data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-								style="z-index: 26;"> 
+								style="z-index: 26;">
 							</div>
 
 						</li>
 					</ul>
 
-					<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"> 
+					<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;">
 					</div>
-				
+
 				</div>
 
 			</div><!-- END REVOLUTION SLIDER -->

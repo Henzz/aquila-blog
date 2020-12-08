@@ -144,13 +144,18 @@
 
                 <div class="content-wrap">
                     <div class="container clearfix">
-                        <div class="stretch nobottommargin">
-                            <h1>This a new post for the page.</h1>
+                        <div class="col-sm-14">
+                            @foreach ($post as $posts)
+                                <div class="">
+                                    {!! $posts['body'] !!}
+                                    <hr>
+                                </div>
+                            @endforeach
                         </div>
                     </div>
                 </div>
 
-				<div class="container clearfix" style="margin-top: 30px;">
+                <div class="container clearfix" style="margin-top: 30px;">
 
 					<div class="col_one_third">
 						<div class="feature-box fbox-center fbox-outline fbox-effect nobottomborder">

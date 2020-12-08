@@ -118,13 +118,18 @@
 
             <div class="content-wrap">
                 <div class="container clearfix">
-                    <div class="stretch nobottommargin">
-                        <h1>This a new post for the page.</h1>
+                    <div class="col-sm-14">
+                        @foreach ($post as $posts)
+                            <div class="">
+                                {!! $posts['body'] !!}
+                                <hr>
+                            </div>
+                        @endforeach
                     </div>
                 </div>
             </div>
 
-		</section><!-- #content end -->
+            </section><!-- #content end -->
 
 	</div><!-- #wrapper end -->
 

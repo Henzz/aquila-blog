@@ -17,6 +17,7 @@ use Illuminate\Support\Facades\Route;
     return view('welcome');
 });
 */
+
 Route::get('/', 'App\Http\Controllers\DashboardController@index');
 
 Route::get('/about', 'App\Http\Controllers\DashboardController@about');
@@ -29,5 +30,3 @@ Route::get('/service-demo-digital-seo', 'App\Http\Controllers\DashboardControlle
 Route::get('/service-erp-iot', 'App\Http\Controllers\DashboardController@serviceErpIot');
 Route::get('/service-erp', 'App\Http\Controllers\DashboardController@serviceErp');
 Route::get('/service-web', 'App\Http\Controllers\DashboardController@serviceWeb');
-
-Route::get('/posts','App\Http\Controllers\DashboardController@dashboard');

@@ -175,13 +175,18 @@
 
                 <div class="content-wrap">
                     <div class="container clearfix">
-                        <div class="stretch nobottommargin">
-                            <h1>This a new post for the page.</h1>
+                        <div class="col-sm-14">
+                            @foreach ($post as $posts)
+                                <div class="">
+                                    {!! $posts['body'] !!}
+                                    <hr>
+                                </div>
+                            @endforeach
                         </div>
                     </div>
                 </div>
 
-				<a href="/contact-2" class="btn btn-dark btn-lg btn-block">
+                <a href="/contact-2" class="btn btn-dark btn-lg btn-block">
 					<div class="container clearfix icon-caret-left"> Get In Touch With Us <i class="icon-caret-right" style="top:4px;"></i>
 					</div>
 				</a>
